@@ -18,8 +18,6 @@ public class YunusEmre_Caliskan_Homework5 {
         // TODO code application logic here
         System.out.println("ASD");
         System.out.println("Suleyman Ozyilmaz");
-        System.out.println("New Added line";
-        
     }
     
 }
